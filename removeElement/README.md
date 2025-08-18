@@ -20,5 +20,5 @@ Instead of shifting elements or using the classic two-pointer method, I did some
   
 ##
 
-Got to uses `reverse=True` in `sort()`, which not everyone thinks about using in problems like this.
+Got to use `reverse=True` in `sort()`, which not everyone thinks about using in problems like this.
 Ended up cleaner than expected, and surprisingly dominated performance stats.
