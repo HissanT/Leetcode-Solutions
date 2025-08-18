@@ -1,7 +1,5 @@
 This folder contains my solution to [LeetCode Problem 66: Plus One](https://leetcode.com/problems/plus-one/)
 
-# LeetCode Problem 66: Plus One  
-
 ## **Problem Description**  
 You are given a large integer represented as an integer array `digits`, where each `digits[i]` is the `i`th digit of the integer.  
 The digits are ordered from most significant to least significant in left-to-right order.  
