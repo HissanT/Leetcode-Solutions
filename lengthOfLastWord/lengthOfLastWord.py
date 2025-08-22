@@ -6,5 +6,5 @@ class Solution:
             if s[i] != ' ':
                 c += 1
             else:
-                return c
-        return(len(s))
+                break
+        return c
