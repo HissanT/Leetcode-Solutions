@@ -1,4 +1,5 @@
 # Solution 1 
+
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         hashMap = {}
@@ -20,6 +21,7 @@ class Solution:
         return True
 
 # Solution 2
+
 from collections import Counter
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
@@ -32,4 +34,5 @@ class Solution:
                 del hashMap[ch]
             else:
                 hashMap[ch] -= 1
+
         return True
